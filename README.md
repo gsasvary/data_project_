@@ -1,2 +1,3 @@
 # data_project_
 Code1161 data project repo
+This data project analyses the impact of the 2020 major bushfires on local water bodies in NSW. It compares four lakes - Lake Conjola, Lake Meroo, Lake Termeil and Tuross River and how their temperatures, dissolved oxygen levels and nutrients changed during the bushfires and how this affects aquatic ecosystems in the lake. The data analyses the long-term affects on these lakes as well as where the bushfires were and how severely they affect surrounding water bodies. 
